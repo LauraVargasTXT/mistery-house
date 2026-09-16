@@ -31,11 +31,11 @@ mistery-house/
 ## 👥 Equipo
 
 - **Laura Isabel Vargas Chaves** — Animación & Integración
-- **Doriam H.** — Dirección Creativa
-- **Enelia M.** — Modelado 3D
-- **Juliana C.** — Artista de Materiales (PBR)
-- **Katherin R.** — Control de Calidad (QA)
-- **Miguel G.** — Documentación
+- *Nicol sofia.** — Dirección Creativa
+- ** Luna Chica.** — Modelado 3D
+- ** Laura Vargas.** — Artista de Materiales (PBR)
+- ** Instructor.** — Control de Calidad (QA)
+- ** Laura VARGAS.** — Documentación
 
 ## 🎨 Design System
 
