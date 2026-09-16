@@ -1,0 +1,33 @@
+# Blender
+*.blend1
+*.blend-thumb
+*.blend~
+
+# Unity
+Library/
+Logs/
+Temp/
+obj/
+Bin/
+*.csproj
+*.sln
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Compiled
+*.pyc
+__pycache__/
+
+# Large files
+*.zip
+*.rar
+*.7z

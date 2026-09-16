@@ -60,7 +60,7 @@ mistery-house/
 
 ## 🔗 Enlaces
 
-- 🌐 **Sitio Web**: [mistery-house-web.github.io](https://lauravargastxt.github.io/mistery-house-web)
+- 🌐 **Sitio Web**: [mistery-house.github.io](https://lauravargastxt.github.io/mistery-house-sitio)
 - 💬 **Discord**: https://discord.gg/misteryhouse
 - 📋 **Notion**: https://notion.so/misteryhouse
 - 📺 **YouTube**: (En desarrollo)
