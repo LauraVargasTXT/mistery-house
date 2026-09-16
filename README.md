@@ -61,8 +61,8 @@ mistery-house/
 ## 🔗 Enlaces
 
 - 🌐 **Sitio Web**: [mistery-house.github.io](https://lauravargastxt.github.io/mistery-house-sitio)
-- 💬 **Discord**: https://discord.gg/misteryhouse
-- 📋 **Notion**: https://notion.so/misteryhouse
+- 💬 **Discord**: https://discord.gg/ARNnr9mHZ
+- 📋 **Notion**: https://app.notion.com/p/Proyecto-3D-MISTERY-HOUSE-42c996562b1046359ed87fdecfdc2138?source=copy_link
 - 📺 **YouTube**: (En desarrollo)
 
 ## 📚 Documentación
